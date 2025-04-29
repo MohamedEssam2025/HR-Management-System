@@ -13,15 +13,6 @@ It incorporates **advanced SQL techniques** to ensure performance, flexibility, 
 
 ---
 
-## 👥 Team Members
-
-- **Sarah Elaraby Aboayad**
-- **Semon Mamdouh Beskales**
-- **Ahmed Adel Tawfik**
-- **Mohamed Essam Mahrous**
-
----
-
 ## 🔄 Project Phases
 
 ### 📐 A. Analysis & Design  
@@ -65,7 +56,7 @@ This HRMS project demonstrates our ability to plan, design, and implement a real
 ---
 
 ## 📂 Repository Structure
-├── /queries │ ├── create_tables.sql │ ├── insert_data.sql │ ├── views.sql │ ├── procedures.sql │ ├── functions.sql │ ├── triggers.sql │ ├── advanced_queries.sql │ ├── /design │ ├── ERD.png │ ├── entity_to_table_mapping.pdf │ ├── README.md
+├── ERD.jpg # Entity Relationship Diagram ├── Mapping.jpg # Entity-to-table mapping ├── database_hr_ implementation.sql # Table creation and data insertion ├── Index & View Queries.sql # Indexes and Views ├── Rules and Functions.sql # Validation rules and functions ├── Window Functions.sql # Window function queries ├── cursor_merge_subqueries.sql # MERGE, Cursors, ROLLUP, GROUPING SETS ├── stored procedure, Joins ,Aggregate Functions, trigger.sql # SPs, joins, aggregates, triggers ├──
 
 ---
 
@@ -75,9 +66,3 @@ This HRMS project demonstrates our ability to plan, design, and implement a real
 2. Open the SQL files in **SQL Server Management Studio (SSMS)**.
 3. Execute scripts in the order listed above.
 4. View the ERD and mapping file in the `design` folder for reference.
-
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to open an issue or contact any team member.
